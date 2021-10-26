@@ -1,0 +1,63 @@
+{
+  "locations": [
+    {
+      "locationDbId": "43",
+      "data": {
+        "result": {
+          "additionalInfo": {
+            "noaa_station_id": "GHCND:USC00300331",
+            "breeding_program": "166",
+            "geodetic datum": {}
+          },
+          "topography": {},
+          "coordinates": {
+            "geometry": {
+              "coordinates": [-76.6551, 42.7254, 125],
+              "type": "Point"
+            },
+            "type": "Feature"
+          },
+          "coordinateUncertainty": {},
+          "countryCode": "USA",
+          "locationType": "Field",
+          "instituteAddress": "",
+          "countryName": "United States of America",
+          "environmentType": {},
+          "exposure": {},
+          "locationName": "P1 Aurora Musgrave Research Farm",
+          "locationDbId": "43",
+          "coordinateDescription": {},
+          "siteStatus": {},
+          "instituteName": "",
+          "externalReferences": {},
+          "slope": {},
+          "abbreviation": "P1Aur",
+          "documentationURL": {}
+        },
+        "metadata": {
+          "datafiles": [],
+          "pagination": {
+            "totalCount": 1,
+            "totalPages": 1,
+            "currentPage": 0,
+            "pageSize": 10
+          },
+          "status": [
+            {
+              "messageType": "INFO",
+              "message": "BrAPI base call found with page=0, pageSize=10"
+            },
+            {
+              "messageType": "INFO",
+              "message": "Loading CXGN::BrAPI::v2::Locations"
+            },
+            {
+              "messageType": "INFO",
+              "message": "Locations object result constructed"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

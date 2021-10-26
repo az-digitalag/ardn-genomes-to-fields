@@ -1,0 +1,316 @@
+{
+  "germplasms": [
+    {
+      "studyDbId": "241",
+      "data": {
+        "metadata": {
+          "status": [
+            {
+              "messageType": "INFO",
+              "message": "BrAPI base call found with page=0, pageSize=10"
+            },
+            {
+              "messageType": "INFO",
+              "message": "Loading CXGN::BrAPI::v2::Germplasm"
+            },
+            {
+              "messageType": "INFO",
+              "message": "Germplasm result constructed"
+            }
+          ],
+          "pagination": {
+            "pageSize": 10,
+            "currentPage": 0,
+            "totalCount": 232,
+            "totalPages": 24
+          },
+          "datafiles": []
+        },
+        "result": {
+          "data": [
+            {
+              "documentationURL": "http://imagebreed.org/stock/43271/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43271/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43271",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "2369/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "2369/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "2369/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43272/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43272/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43272",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "2369/LH123Ht",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "2369/LH123HT",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "2369/LH123HT",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43273/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43273/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43273",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "2369/PHN82",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "2369/PHN82",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "2369/PHN82",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43274/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43274/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43274",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "2FACC/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "2FACC/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "2FACC/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43275/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43275/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43275",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "4N506/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "4N506/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "4N506/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43276/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43276/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43276",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "6F629/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "6F629/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "6F629/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43277/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43277/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43277",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "DK78010/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "78010/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "78010/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43278/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43278/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43278",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "A3G-3-3-1-313/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "A3G-3-3-1-313/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "A3G-3-3-1-313/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43279/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43279/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43279",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "A632/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "A632/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "A632/3IIH6",
+              "storageTypes": []
+            },
+            {
+              "documentationURL": "http://imagebreed.org/stock/43280/view",
+              "seedSource": "",
+              "species": "Zea mays",
+              "biologicalStatusOfAccessionCode": 0,
+              "instituteName": "",
+              "germplasmPUI": "http://imagebreed.org/stock/43280/view",
+              "acquisitionDate": "",
+              "germplasmDbId": "43280",
+              "breedingMethodDbId": "biparental",
+              "accessionNumber": "",
+              "countryOfOriginCode": "",
+              "pedigree": "A634/3IIH6",
+              "germplasmOrigin": [],
+              "seedSourceDescription": "",
+              "genus": "Zea",
+              "externalReferences": [],
+              "taxonIds": [],
+              "commonCropName": "maize",
+              "synonyms": [],
+              "germplasmName": "A634/3IIH6",
+              "instituteCode": "",
+              "donors": [
+                {}
+              ],
+              "defaultDisplayName": "A634/3IIH6",
+              "storageTypes": []
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

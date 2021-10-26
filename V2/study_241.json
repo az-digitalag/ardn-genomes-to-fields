@@ -1,0 +1,68 @@
+{
+  "studies": [
+    {
+      "studyDbId": "241",
+      "data": {
+        "result": {
+          "locationName": "P1 Aurora Musgrave Research Farm",
+          "trialDbId": "690",
+          "environmentParameters": {},
+          "contacts": {},
+          "externalReferences": {},
+          "studyPUI": {},
+          "commonCropName": "Maize,Alfalfa,Barley",
+          "dataLinks": [],
+          "startDate": "2017-05-18T00:00:00Z",
+          "growthFacility": {},
+          "additionalInfo": {
+            "programName": "G2F",
+            "programDbId": "166"
+          },
+          "trialName": "GoreLab",
+          "experimentalDesign": {
+            "description": "RCBD",
+            "PUI": {}
+          },
+          "active": true,
+          "studyType": "phenotyping_trial",
+          "locationDbId": "43",
+          "endDate": {},
+          "observationUnitsDescription": {},
+          "lastUpdate": {},
+          "observationLevels": {},
+          "license": "",
+          "documentationURL": "",
+          "culturalPractices": {},
+          "studyDescription": "G2F NYH2 2017",
+          "studyName": "2017_NYH2",
+          "studyDbId": "241",
+          "seasons": "2017",
+          "studyCode": {}
+        },
+        "metadata": {
+          "pagination": {
+            "totalPages": 1,
+            "totalCount": 1,
+            "currentPage": 0,
+            "pageSize": 10
+          },
+          "datafiles": [],
+          "status": [
+            {
+              "message": "BrAPI base call found with page=0, pageSize=10",
+              "messageType": "INFO"
+            },
+            {
+              "message": "Loading CXGN::BrAPI::v2::Studies",
+              "messageType": "INFO"
+            },
+            {
+              "message": "Studies search result constructed",
+              "messageType": "INFO"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

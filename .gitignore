@@ -1,0 +1,8 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#API key
+V2/api_key.txt
