@@ -1,5 +1,5 @@
-https://imagebreed.org/brapi/v2/observationunits?studyDbId=241&access_token=uzuibmdinprjdbrmihidccugrjrudlcctgjayrujrltfozsouwthbrpajxqubmtwbhvpywz
-https://imagebreed.org/brapi/v2/observations?studyDbId=241&access_token=uzuibmdinprjdbrmihidccugrjrudlcctgjayrujrltfozsouwthbrpajxqubmtwbhvpywz
+https://imagebreed.org/brapi/v2/observationunits?studyDbId=241&access_token=
+https://imagebreed.org/brapi/v2/observations?studyDbId=241&access_token=
 
 ###### Read in libraries ######
 library(jsonlite)
