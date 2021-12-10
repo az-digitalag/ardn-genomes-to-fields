@@ -1,0 +1,667 @@
+{
+  "observed": [
+    {
+      "studyDbId": "241",
+      "observationVariableDbId": "92193",
+      "data": {
+        "metadata": {
+          "datafiles": [],
+          "status": [
+            {
+              "message": "BrAPI base call found with page=0, pageSize=30",
+              "messageType": "INFO"
+            },
+            {
+              "message": "Loading CXGN::BrAPI::v2::Observations",
+              "messageType": "INFO"
+            },
+            {
+              "message": "Observations result constructed",
+              "messageType": "INFO"
+            }
+          ],
+          "pagination": {
+            "currentPage": 0,
+            "totalCount": 413,
+            "totalPages": 14,
+            "pageSize": 30
+          }
+        },
+        "result": {
+          "data": [
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310443",
+              "germplasmDbId": "43271",
+              "observationUnitDbId": "43470",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "85.21759",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/3IIH6",
+              "observationUnitName": "2017_NYH2_2369_3IIH6_plot_112"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310670",
+              "germplasmDbId": "43271",
+              "observationUnitDbId": "43801",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/3IIH6",
+              "observationUnitName": "2017_NYH2_2369_3IIH6_plot_389"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310566",
+              "germplasmDbId": "43272",
+              "observationUnitDbId": "43691",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "119.36098",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/LH123HT",
+              "observationUnitName": "2017_NYH2_2369_LH123HT_plot_144"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310699",
+              "germplasmDbId": "43272",
+              "observationUnitDbId": "43963",
+              "season": [
+                {
+                  "seasonDbId": "2017",
+                  "season": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "114.11734",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/LH123HT",
+              "observationUnitName": "2017_NYH2_2369_LH123HT_plot_377"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310679",
+              "germplasmDbId": "43273",
+              "observationUnitDbId": "43882",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/PHN82",
+              "observationUnitName": "2017_NYH2_2369_PHN82_plot_394"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310531",
+              "germplasmDbId": "43273",
+              "observationUnitDbId": "43947",
+              "season": [
+                {
+                  "seasonDbId": "2017",
+                  "season": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2369/PHN82",
+              "observationUnitName": "2017_NYH2_2369_PHN82_plot_97"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310655",
+              "germplasmDbId": "43274",
+              "observationUnitDbId": "43723",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "117.279884",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2FACC/3IIH6",
+              "observationUnitName": "2017_NYH2_2FACC_3IIH6_plot_224"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310473",
+              "germplasmDbId": "43274",
+              "observationUnitDbId": "43768",
+              "season": [
+                {
+                  "seasonDbId": "2017",
+                  "season": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "86.30196",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "2FACC/3IIH6",
+              "observationUnitName": "2017_NYH2_2FACC_3IIH6_plot_479"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310433",
+              "germplasmDbId": "43275",
+              "observationUnitDbId": "43522",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "4N506/3IIH6",
+              "observationUnitName": "2017_NYH2_4N506_3IIH6_plot_222"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310696",
+              "germplasmDbId": "43275",
+              "observationUnitDbId": "43770",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "123.97257",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "4N506/3IIH6",
+              "observationUnitName": "2017_NYH2_4N506_3IIH6_plot_413"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310603",
+              "germplasmDbId": "43276",
+              "observationUnitDbId": "43678",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "113.99466",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "6F629/3IIH6",
+              "observationUnitName": "2017_NYH2_6F629_3IIH6_plot_240"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310739",
+              "germplasmDbId": "43276",
+              "observationUnitDbId": "43657",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "115.32003",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "6F629/3IIH6",
+              "observationUnitName": "2017_NYH2_6F629_3IIH6_plot_434"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310586",
+              "germplasmDbId": "43277",
+              "observationUnitDbId": "43917",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "123.27428",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "78010/3IIH6",
+              "observationUnitName": "2017_NYH2_78010_3IIH6_plot_189"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310538",
+              "germplasmDbId": "43277",
+              "observationUnitDbId": "43820",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "78010/3IIH6",
+              "observationUnitName": "2017_NYH2_78010_3IIH6_plot_406"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310812",
+              "germplasmDbId": "43278",
+              "observationUnitDbId": "43808",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "120.66385",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A3G-3-3-1-313/3IIH6",
+              "observationUnitName": "2017_NYH2_A3G_3_3_1_313_3IIH6_plot_244"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310523",
+              "germplasmDbId": "43278",
+              "observationUnitDbId": "43800",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "120.09343",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A3G-3-3-1-313/3IIH6",
+              "observationUnitName": "2017_NYH2_A3G_3_3_1_313_3IIH6_plot_496"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310758",
+              "germplasmDbId": "43279",
+              "observationUnitDbId": "43761",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "121.17401",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A632/3IIH6",
+              "observationUnitName": "2017_NYH2_A632_3IIH6_plot_203"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310736",
+              "germplasmDbId": "43279",
+              "observationUnitDbId": "43806",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A632/3IIH6",
+              "observationUnitName": "2017_NYH2_A632_3IIH6_plot_498"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310742",
+              "germplasmDbId": "43280",
+              "observationUnitDbId": "43858",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A634/3IIH6",
+              "observationUnitName": "2017_NYH2_A634_3IIH6_plot_241"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310475",
+              "germplasmDbId": "43280",
+              "observationUnitDbId": "43734",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A634/3IIH6",
+              "observationUnitName": "2017_NYH2_A634_3IIH6_plot_462"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310576",
+              "germplasmDbId": "43281",
+              "observationUnitDbId": "43861",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "118.24217",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A635/3IIH6",
+              "observationUnitName": "2017_NYH2_A635_3IIH6_plot_210"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310650",
+              "germplasmDbId": "43281",
+              "observationUnitDbId": "43642",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "95.81299",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A635/3IIH6",
+              "observationUnitName": "2017_NYH2_A635_3IIH6_plot_468"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310716",
+              "germplasmDbId": "43282",
+              "observationUnitDbId": "43790",
+              "season": [
+                {
+                  "year": "2017",
+                  "season": "2017",
+                  "seasonDbId": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "120.291534",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A679/3IIH6",
+              "observationUnitName": "2017_NYH2_A679_3IIH6_plot_238"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310718",
+              "germplasmDbId": "43282",
+              "observationUnitDbId": "43831",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A679/3IIH6",
+              "observationUnitName": "2017_NYH2_A679_3IIH6_plot_405"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310472",
+              "germplasmDbId": "43283",
+              "observationUnitDbId": "43690",
+              "season": [
+                {
+                  "seasonDbId": "2017",
+                  "season": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "123.17444",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A680/3IIH6",
+              "observationUnitName": "2017_NYH2_A680_3IIH6_plot_213"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310605",
+              "germplasmDbId": "43283",
+              "observationUnitDbId": "43913",
+              "season": [
+                {
+                  "seasonDbId": "2017",
+                  "season": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "117.04382",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "A680/3IIH6",
+              "observationUnitName": "2017_NYH2_A680_3IIH6_plot_430"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310428",
+              "germplasmDbId": "43284",
+              "observationUnitDbId": "43550",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "B104/3IIH6",
+              "observationUnitName": "2017_NYH2_B104_3IIH6_plot_197"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310479",
+              "germplasmDbId": "43284",
+              "observationUnitDbId": "43485",
+              "season": [
+                {
+                  "year": "2017",
+                  "seasonDbId": "2017",
+                  "season": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "B104/3IIH6",
+              "observationUnitName": "2017_NYH2_B104_3IIH6_plot_432"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310623",
+              "germplasmDbId": "43285",
+              "observationUnitDbId": "43779",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "115.00611",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "B105/3IIH6",
+              "observationUnitName": "2017_NYH2_B105_3IIH6_plot_175"
+            },
+            {
+              "studyDbId": "241",
+              "observationDbId": "5310502",
+              "germplasmDbId": "43285",
+              "observationUnitDbId": "43469",
+              "season": [
+                {
+                  "season": "2017",
+                  "seasonDbId": "2017",
+                  "year": "2017"
+                }
+              ],
+              "observationTimeStamp": "2020-04-25T04:59:58Z",
+              "collector": "nickmorales",
+              "observationVariableDbId": "92193",
+              "uploadedBy": "nickmorales",
+              "value": "125.73886",
+              "observationVariableName": "Grain Yield [bu/acre]|Standard 4 Image Montage|Keras Predicted KerasCNNSequentialSoftmaxCategorical|COMP:0013229",
+              "germplasmName": "B105/3IIH6",
+              "observationUnitName": "2017_NYH2_B105_3IIH6_plot_459"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
